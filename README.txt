@@ -6,3 +6,6 @@ Shape of data sets as given below.
 Training set : 199523 rows & 41 columns
 Testing set : 99762 rows & 41 columns
 
+Link to Train & Test Data
+https://www.analyticsvidhya.com/wp-content/uploads/2016/09/train.zip
+https://www.analyticsvidhya.com/wp-content/uploads/2016/09/test.zip
