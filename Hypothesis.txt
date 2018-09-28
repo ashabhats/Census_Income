@@ -1,0 +1,23 @@
+Hypothesis
+
+Below are the factors that can have an impat on the income level(Target Variable):
+Age : People below 20 years tend to have less income
+Sex : Male population could have more income
+Marital Status : Married people tend to have more income
+Occupation Category : Certain occupations can have more pay
+Full Time/Part Time : Full Time pays more so income level will be more
+wage/hour : People with higher wage/hour usually have more income
+No.of days worked : More days worked more the income
+Public/Private : Private sector could pay more
+Self Employed? : Self Employed could have more income than salaried
+Us Citizen/Immigrant : US Citizen's income could be more than Immigrants
+Region/Location in US : Location could 
+Education : People with less than Bachelor's degree could earn less
+Retired? : Retired people could have less income compared to working people
+Return on investments : More the ROI more income level
+savings/investments : Same as ROI
+Tax Paid : Higher the tax paid, more the income
+income from other sources : Same as ROI
+No. of people working in thr family : Overall income level increases with this number increasing
+Spouse Education : Same as Education
+
